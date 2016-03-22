@@ -1,0 +1,5 @@
+[libs]
+interfaces/
+
+[ignore]
+.*/node_modules/y18n/.*\.json$
